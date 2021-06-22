@@ -1,0 +1,22 @@
+{
+  "name": "sandeepspan",
+  "version": "1.0.0",
+  "description": "<a href=\"https://discord.gg/\">   <img align=\"left\" alt=\"SandeepSpan's Discord\" width=\"22px\" src=\"https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg\" /> </a> <a href=\"https://twitter.com/\">   <img align=\"left\" alt=\"SandeepSpan | Twitter\" width=\"22px\" src=\"https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg\" /> </a> <a href=\"https://www.linkedin.com/\">   <img align=\"left\" alt=\"SandeepSpan's LinkedIN\" width=\"22px\" src=\"https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg\" /> </a> <!-- <a href=\"https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g\">   <img align=\"left\" alt=\"Abhishek's Spotify\" width=\"22px\" src=\"https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg\" /> </a> -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepspan/sandeepspan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepspan/sandeepspan/issues"
+  },
+  "homepage": "https://github.com/sandeepspan/sandeepspan#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
