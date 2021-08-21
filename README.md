@@ -1,4 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <a href="https://discord.gg/">
   <img align="left" alt="SandeepSpan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -21,7 +22,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <br/>
 
-
 ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -34,6 +34,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 ### 🏆 Github Profile Trophy
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
 </a>
@@ -41,6 +42,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <br/>
 
 ### 📈 My GitHub Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandeepspan&show_icons=true&theme=gotham" alt="sandeepspan" />
 
 <br/>
@@ -48,10 +50,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <br />  
 
 <!--  TODO 
-#### 🔭 I’m currently working on ...
-#### 🌱 I’m currently learning ...
-#### 👯 I’m looking to collaborate on ...
-#### 🤔 I’m looking for help with ...
+#### 🔭 I'm currently working on ...
+#### 🌱 I'm currently learning ...
+#### 👯 I'm looking to collaborate on ...
+#### 🤔 I'm looking for help with ...
 #### 💬 Ask me about ...
 #### 📫 How to reach me: ...
 #### 😄 Pronouns: ...
